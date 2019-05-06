@@ -10,13 +10,9 @@ The two static website’s were recreated by myself using one html.index file an
 - Chrome DevTools
 - Terminal
 
-Here is the static site for Comp 1:
+Here is the static site for Comp 1 followed by my recreation:
 
-![Comp 1](http://frontend.turing.io/assets/images/projects/zen-garden/zen-garden-01.jpg)
-
-This is my recreation:
-
-![My Project](https://user-images.githubusercontent.com/47795464/57202313-1e289e00-6f61-11e9-8960-5daf318a1045.png)
+![Comp 1 and My Project](https://user-images.githubusercontent.com/47795464/57203312-2f2adc80-6f6c-11e9-80bb-4cf472de3e6c.png)
 
 Here is the static site for Comp 2:
 
@@ -24,5 +20,5 @@ Here is the static site for Comp 2:
 
 This is my recreation:
 
-![My Project](https://user-images.githubusercontent.com/47795464/57202346-5b8d2b80-6f61-11e9-902d-38172c25a77e.png)
+![My Project](https://user-images.githubusercontent.com/47795464/57203187-2be32100-6f6b-11e9-91a6-14d6e17a203e.png)
 
